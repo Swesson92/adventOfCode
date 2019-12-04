@@ -75,3 +75,5 @@ function getNextPosition(currentPosition, cable) {
   });
   
   console.log(minDistance);
+
+  //funkar ju!
