@@ -19,4 +19,6 @@ for (let pwd = start; pwd <= end; pwd++) {
   validCount += isCandidate(String(pwd));
 }
 
+console.log(start);
+console.log(end);
 console.log(validCount);
